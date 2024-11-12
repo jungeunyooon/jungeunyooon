@@ -40,6 +40,15 @@
     <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/jungeunyooon"
+      width="600"
+      height="300"
+    />
+  </a>
+</p>
 
 
 <p align="center">
