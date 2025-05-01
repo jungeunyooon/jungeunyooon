@@ -8,6 +8,24 @@
     <b>Hi there👋 I'm Jungeun! Welcome to my Github!</b>
 </p>
 
+<br>
+<br>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=jungeunyooon&show_icons=true&theme=radical" alt="Jungeun's GitHub stats"/>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jungeunyooon">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeunyooon&layout=donut" alt="Top Languages"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 ## About Me 
 ### Blogs : https://medium.com/@angal2310
 ### linkedin : https://www.linkedin.com/in/jungeun731/
@@ -56,22 +74,4 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD"/>
 
-
-<br>
-<br>
-
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jungeunyooon&show_icons=true&theme=radical" alt="Jungeun's GitHub stats"/>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jungeunyooon">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungeunyooon&layout=donut" alt="Top Languages"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
 
