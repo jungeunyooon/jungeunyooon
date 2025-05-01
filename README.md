@@ -4,11 +4,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jungeun's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=51&descAlign=70"/>
 </p>
 
-<p align="center">
-    <b>Hi there👋 I'm Jungeun! Welcome to my Github!</b>
-</p>
+### Hi there👋 I'm Jungeun! Welcome to my Github!</b>
 
-<br>
 <br>
 
 <p align="center">
@@ -29,6 +26,8 @@
 ## About Me 
 ### Blogs : https://medium.com/@angal2310
 ### linkedin : https://www.linkedin.com/in/jungeun731
+
+<br>
 
 ## Tech Stack 
 
