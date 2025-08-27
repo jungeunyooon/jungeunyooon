@@ -22,11 +22,6 @@
     </tr>
   </table>
 </p>
-
-## About Me 
-### Blogs : https://medium.com/@angal2310
-### linkedin : https://www.linkedin.com/in/jungeun731
-
 <br>
 
 ## Tech Stack 
