@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jungeun's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer&descAlignY=51&descAlign=70"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jungeun's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=70"/>
 </p>
 
 ### Hi there👋 I'm Jungeun! Welcome to my Github!</b>
