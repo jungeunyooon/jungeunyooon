@@ -1,0 +1,39 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 하루 1번 자동
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+          # 기본
+          user: jungeunyooon
+          template: classic
+          base: header, activity, community
+
+          # 🔥 streak 대체 핵심
+          plugin_streak: yes
+          plugin_streak_days: 365
+          plugin_streak_threshold: 1
+
+          # 커밋 활동
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # 언어 (선택)
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+
+          # 출력
+          filename: metrics.svg
