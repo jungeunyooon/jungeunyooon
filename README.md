@@ -6,8 +6,6 @@
 
 ### Hi there👋 I'm Jungeun! Welcome to my Github!</b>
 
-![Metrics](https://github.com/jungeunyooon/jungeunyooon/blob/output/metrics.svg)
-
 ![snake gif](https://github.com/jungeunyooon/jungeunyooon/blob/output/github-contribution-grid-snake.svg)
 
 
